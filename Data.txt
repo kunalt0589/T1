@@ -1,3 +1,6 @@
 Hi this is kunal AND i AM GETTING TRAINED ON USING THE GITHUB,
 
 In the second stage of the training we are learning about staging the files as  well  as implementing the changes in the existing file.
+
+
+This is another new information which I am adding to this file so that it will appear the files and folders of the GitHub repo.
