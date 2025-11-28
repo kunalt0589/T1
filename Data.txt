@@ -1,0 +1,3 @@
+Hi this is kunal AND i AM GETTING TRAINED ON USING THE GITHUB,
+
+In the second stage of the training we are learning about staging the files as  well  as implementing the changes in the existing file.
